@@ -1,0 +1,6 @@
+framework module KafkaClient {
+  umbrella header "KafkaClient.h"
+
+  export *
+  module * { export * }
+}
